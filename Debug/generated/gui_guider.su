@@ -1,0 +1,17 @@
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:127:20:lv_anim_set_var	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:139:20:lv_anim_set_exec_cb	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:149:20:lv_anim_set_time	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:159:20:lv_anim_set_delay	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:170:20:lv_anim_set_values	24	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:197:20:lv_anim_set_path_cb	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:248:20:lv_anim_set_playback_time	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:258:20:lv_anim_set_playback_delay	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:268:20:lv_anim_set_repeat_count	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/misc/lv_anim.h:278:20:lv_anim_set_repeat_delay	16	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/core/lv_disp.h:205:20:lv_scr_load	16	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/gui_guider.c:17:6:ui_init_style	16	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/gui_guider.c:25:6:ui_load_scr_animation	40	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/gui_guider.c:45:6:ui_animation	96	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/gui_guider.c:64:6:init_scr_del_flag	16	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/gui_guider.c:70:6:setup_ui	16	static

@@ -1,0 +1,4 @@
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/lv_api_map.h:55:20:lv_obj_move_foreground	24	static
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/lv_api_map.h:67:20:lv_obj_move_background	16	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/widgets_init.c:16:30:kb_event_cb	24	static
+C:/nxp/GUI-Guider-Projects/k1019/generated/widgets_init.c:24:30:ta_event_cb	24	static

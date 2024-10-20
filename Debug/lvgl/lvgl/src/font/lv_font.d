@@ -1,0 +1,32 @@
+lvgl/lvgl/src/font/lv_font.o lvgl/lvgl/src/font/lv_font.d: \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/font/lv_font.c \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/font/lv_font.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_internal.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_kconfig.h \
+ C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\source/lv_conf.h \
+ C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\board/lvgl_support.h \
+ C:\nxp\GUI-Guider-Projects\k1019\custom/lv_conf_ext.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/font/lv_symbol_def.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_area.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_internal.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_utils.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_log.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_types.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_assert.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_log.h \
+ C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_mem.h
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/font/lv_font.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_internal.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_kconfig.h:
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\source/lv_conf.h:
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\board/lvgl_support.h:
+C:\nxp\GUI-Guider-Projects\k1019\custom/lv_conf_ext.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/font/lv_symbol_def.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_area.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/lv_conf_internal.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_utils.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_log.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_types.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_assert.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_log.h:
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/lvgl/lvgl/src/misc/lv_mem.h:

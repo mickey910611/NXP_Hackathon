@@ -1,0 +1,2 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/sdcard.c:28:5:MOUNT_SDCard	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/sdcard.c:60:17:sdcardWaitCardInsert	8	static

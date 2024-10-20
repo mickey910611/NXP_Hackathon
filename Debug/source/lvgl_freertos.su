@@ -1,0 +1,6 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:46:13:traceIdleTaskSwitchedIn	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:51:13:traceIdleTaskSwitchedOut	72	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:71:10:getIdleTaskTime	56	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:81:6:resetIdleTaskTime	4	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:88:6:traceTaskSwitchedOut	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_freertos.c:98:6:traceTaskSwitchedIn	16	static

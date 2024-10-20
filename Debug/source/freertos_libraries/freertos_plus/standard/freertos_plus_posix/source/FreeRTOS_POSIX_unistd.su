@@ -1,0 +1,2 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_unistd.c:37:10:sleep	40	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_unistd.c:46:5:usleep	48	static

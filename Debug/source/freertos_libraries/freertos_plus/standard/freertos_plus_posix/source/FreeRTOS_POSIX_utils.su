@@ -1,0 +1,9 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:42:8:UTILS_strnlen	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:62:5:UTILS_AbsoluteTimespecToDeltaTicks	48	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:103:5:UTILS_TimespecToTicks	80	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:163:6:UTILS_NanosecondsToTimespec	48	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:185:5:UTILS_TimespecAdd	64	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:234:5:UTILS_TimespecAddNanoseconds	64	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:275:5:UTILS_TimespecSubtract	48	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:330:5:UTILS_TimespecCompare	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/freertos_libraries/freertos_plus/standard/freertos_plus_posix/source/FreeRTOS_POSIX_utils.c:378:6:UTILS_ValidateTimespec	24	static

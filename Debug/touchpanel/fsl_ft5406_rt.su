@@ -1,0 +1,5 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/touchpanel/fsl_ft5406_rt.c:36:10:FT5406_RT_Init	32	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/touchpanel/fsl_ft5406_rt.c:77:10:FT5406_RT_Denit	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/touchpanel/fsl_ft5406_rt.c:88:17:FT5406_RT_ReadTouchData	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/touchpanel/fsl_ft5406_rt.c:98:10:FT5406_RT_GetSingleTouch	40	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/touchpanel/fsl_ft5406_rt.c:133:10:FT5406_RT_GetMultiTouch	40	static

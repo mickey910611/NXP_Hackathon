@@ -1,0 +1,10 @@
+C:\nxp\GUI-Guider-Projects\k1019\sdk\Core\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:45:17:get_idle_time_cb	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:50:13:reset_idle_time_cb	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:55:13:AppTask	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:102:5:main	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:150:6:vApplicationMallocFailedHook	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:161:6:vApplicationTickHook	8	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:172:6:vApplicationStackOverflowHook	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:181:6:vApplicationGetIdleTaskMemory	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/source/lvgl_guider.c:208:6:vApplicationGetTimerTaskMemory	24	static

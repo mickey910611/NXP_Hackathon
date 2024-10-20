@@ -1,0 +1,12 @@
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_common_arm.h:225:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_clock.h:1523:20:CLOCK_DisableClock	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:72:17:ELCDIF_GetInstance	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:101:6:ELCDIF_RgbModeInit	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:177:6:ELCDIF_RgbModeGetDefaultConfig	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:205:6:ELCDIF_RgbModeSetPixelFormat	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:222:6:ELCDIF_Deinit	24	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:241:6:ELCDIF_RgbModeStop	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:256:6:ELCDIF_Reset	16	static
+C:/nxp/GUI-Guider-Projects/k1019/sdk/Core/drivers/fsl_elcdif.c:350:10:ELCDIF_UpdateLut	40	static
