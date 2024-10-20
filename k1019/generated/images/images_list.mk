@@ -1,0 +1,1 @@
+GEN_CSRCS += _car_480x272.c _094940_alpha_259x156.c _back_alpha_476x278.c
